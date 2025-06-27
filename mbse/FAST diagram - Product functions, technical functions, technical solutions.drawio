@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.6">
+  <diagram name="Page-1" id="7dsKKYGEo9BIq2ErHrN7">
+    <mxGraphModel dx="3742" dy="2849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry y="-160" width="770" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-58" value="" style="group;fontSize=20;fontStyle=1" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="10" width="350" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="FP1 - To surveil terrain" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-34" value="FC1 - To be controlled by user" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="160" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-35" value="FC2 - To avoid terrain" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="320" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-36" value="FC3 - To ensure&#xa; public safety" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="480" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-37" value="FC4 - To navigate in VMC conditions" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="640" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-38" value="FC5 - To communicate with user &#xa;and locate" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="800" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-39" value="FC6 - To respect &#xa;DGAC rules" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="960" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-40" value="FC7 - To consume energy &#xa;for max autonomy" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="1120" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-57" value="FC8 - To faciltate assembly" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="zdkIRq3R49vZXkuHbA1Y-58" vertex="1">
+          <mxGeometry y="1280" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-60" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span&gt;&lt;b&gt;PRODUCT FUNCTIONS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeWidth=4;perimeterSpacing=0;strokeColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-130" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="-160" width="770" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="zdkIRq3R49vZXkuHbA1Y-62" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span&gt;&lt;b&gt;TECHNICAL FUNCTIONS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeWidth=4;perimeterSpacing=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="-130" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG8wI6hhfLTciv5nS4U9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-160" width="770" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG8wI6hhfLTciv5nS4U9-3" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;span&gt;&lt;b&gt;TECHNICAL SOLUTIONS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeWidth=4;perimeterSpacing=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="-130" width="390" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
