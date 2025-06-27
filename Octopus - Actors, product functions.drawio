@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="oKaYiAEmEWJjuPTstY0G-16" value="FC6 - To respect&amp;nbsp;&lt;div&gt;DGAC rules&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" parent="oKaYiAEmEWJjuPTstY0G-5" vertex="1" connectable="0">
           <mxGeometry x="0.4003" y="1" relative="1" as="geometry">
-            <mxPoint x="15" as="offset" />
+            <mxPoint x="-4" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oKaYiAEmEWJjuPTstY0G-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="374e34682ed331ee-1" target="45236fa5f4b8e91a-6" edge="1">
